@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.spyproject/
+.env
+goodbooks-10k-master/
